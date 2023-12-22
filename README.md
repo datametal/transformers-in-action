@@ -53,7 +53,7 @@ Like customs functions and classes as well as utility functions to automatically
 
 
 ```
-!git clone https://github.com/Nicolepcx/Transformers-in-Action.git
+!git clone https://github.com/datametal/transformers-in-action.git
 
 current_path = %pwd
 if '/Transformers-in-Action' in current_path:
